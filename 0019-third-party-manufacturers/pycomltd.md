@@ -17,7 +17,7 @@ Since 2015
 * What kind of products have you created?
 LoRa gateways and IoT modules (WiFi, Bluetooth, LoRa(WAN), Sigfox, LTE-M)
 * How many have you sold?
-100.000?
+500.000?
 * What brought you to Helium etc?
 We believe Helium has a unique proposition offering an amazing market opportunity for all IoT manufacturers to build a global LoRaWAN network
 
@@ -91,8 +91,9 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Budget & Capital (required)
 
-* How many of these are you hoping to make and sell?
+* How many of these are you hoping to make and sell? 50.000
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
+We are past break even as a company
 
 ## Risks & Challenges (required)
 
