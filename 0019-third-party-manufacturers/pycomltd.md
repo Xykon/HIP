@@ -32,57 +32,57 @@ Our Pygate Helium Gateway features the following:
 * Docker based software setup with optional balenaCloud integration for remote configuration & updates.
 
 * What is your expected production and delivery timeline?
-Production is planned for October 2021
+**Production is planned for October 2021**
 
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
-https://pycomiot-my.sharepoint.com/:f:/g/personal/cehlers_pycom_io/EgAfDu8IIqhJoaQDdigfH5ABvNBCoNtTZF0AAZadtYZTwA
+**https://pycomiot-my.sharepoint.com/:f:/g/personal/cehlers_pycom_io/EgAfDu8IIqhJoaQDdigfH5ABvNBCoNtTZF0AAZadtYZTwA**
 
 
 ## Previous shipments (required)
 
 * Have you shipped anything in the past?
-We have shipped IoT products with WiFi, Bluetooth, LoRa(WAN), Sigfox and LTE-M world-wide since 2015
+**We have shipped IoT products with WiFi, Bluetooth, LoRa(WAN), Sigfox and LTE-M world-wide since 2015**
 * Which countries have you previously shipped regulatory FCC or CE approved products?
-World-wide
+**World-wide**
 * Which countries do you plan to ship to?
-World-wide
+**World-wide**
 
 ## Customer Support (required)
 
 * How will your customers be able to contact you for support for your products?
-Email support, Online Service Desk & moderated community forum
+**Email support, Online Service Desk & moderated community forum**
 * For how long? How are you planning to handle repairs and replacements?
-Support will be available during the lifetime of the product. Repairs and replacements will be handled through existing/established RMA processes.
+**Support will be available during the lifetime of the product. Repairs and replacements will be handled through existing/established RMA processes.**
 
 ## Hardware Security Element (required)
 
 The community is concerned about devices that can be easily hacked, specifically by copying their `swarm_key` files. Applications should include plan for how the devices will be secured, potentially including:
 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip
-Swarm key and data encryption key will be stored in the ECC chip
+**Swarm key and data encryption key will be stored in the ECC chip**
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail)
-Yes
+**Yes**
 
 ## Hardware Information (required)
 
 Please let us know:
 * Which security (swarm) element are you using?
-ATECC608A
+**ATECC608A**
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-SX1308 & SX1257
+**SX1308 & SX1257**
 * Where are you sourcing your components from?
-Semtech, global supply chain through EMS
+**Semtech, global supply chain through EMS**
 * How many radio modules/ concentrators can you procure?
-Typically 6000 per week
+**Typically 6000 per week**
 
 ## Manufacturing Information (required)
 
 * Have you built and delivered radio hardware products before?
-Yes. Pycom has successfully launched several radio hardware products (WiPy 2, LoPy1, SiPy, LoPy4, GPy, FiPy, Pygate, W01, L01, L04 and G01) since 2015 and sold hundreds of thousands of devices
+**Yes. Pycom has successfully launched several radio hardware products (WiPy 2, LoPy1, SiPy, LoPy4, GPy, FiPy, Pygate, W01, L01, L04 and G01) since 2015 and sold hundreds of thousands of devices**
 * Have you built gateways before?
-Yes, the Pygate on which this product is based
+**Yes, the Pygate on which this product is based**
 * How many gateways did you make?
-12.000
+**12.000**
 
 ## Proof of Identity
 
@@ -91,19 +91,18 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Budget & Capital (required)
 
-* How many of these are you hoping to make and sell? 50.000
+* How many of these are you hoping to make and sell? **50.000**
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
-We are past break even as a company
+**We are past break even as a company**
 
 ## Risks & Challenges (required)
 
-Availability of components.
+**Availability of components.**
 
 ## Other information (required)
 
 * Contact info (* required) -
-Christian Ehlers
-helium@pycom.io
+**Christian Ehlers helium@pycom.io**
 * Twitter profile -
 https://twitter.com/pycomIOT
 * Facebook profile -
@@ -113,8 +112,6 @@ https://www.linkedin.com/company/pycom
 * Website -
 https://pycom.io
 * Payment methods available -
-Credit Card (via Stripe)
-Apple Pay
-Google Pay
+**Credit Card (via Stripe), Apple Pay, Google Pay**
 * Regions covered / shipped to -
-World-wide
+**World-wide**
